@@ -1,6 +1,6 @@
-# Booki - Projet d'études
+# Agence la Panthère - Projet d'études
 
-- https://hugodeyrigoyen.github.io/AgenceLaPanthere/
+- https://hugo-de-yrigoyen.github.io/agence-la-panthere/
 - Dans le cadre des mes études de développeur web
 - Projet d'études de refonte d'un site en corrigeant les mauvaises pratiques et en améliorant le SEO
 
