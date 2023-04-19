@@ -11,7 +11,7 @@
 
 ## Évaluation
 
-- Projet validé
+- Projet validé test
 - Commentaires :
   ![Évaluation 1](evaluation/evaluation1.png "Évaluation 1")
   ![Évaluation 2](evaluation/evaluation2.png "Évaluation 2")
